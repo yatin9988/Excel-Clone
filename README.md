@@ -17,3 +17,6 @@ Built an excel clone using javascript,jquery,html,css supporting all of its basi
 7. Implemented the Eval function(for calculation) using the stack data structure.
 8. Implemented cycle detection( Using directed- graph data structure) for each cell to prevent the cell to create the cycle.
 9. Clean and Responsive UI
+
+![Screenshot 2022-01-05 160758](https://user-images.githubusercontent.com/42620842/148205749-530ecfdb-c1bf-4977-8098-56b974ff8e15.png)
+![Screenshot 2022-01-05 161230](https://user-images.githubusercontent.com/42620842/148205761-c257959c-c658-4075-9e0c-9248e191e4f8.png)
